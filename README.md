@@ -5,6 +5,7 @@ Instalación de dependencias: Asegúrate de tener las dependencias necesarias in
 Descarga del código fuente: Ve al repositorio oficial de Polygon o la fuente proporcionada por el equipo de desarrollo. Clona el repositorio o descarga el código fuente en tu máquina.
 
 git clone https://github.com/polymarket/matic.git 
+
 cd matic
 
 Configuración del nodo: Configura el archivo de configuración según tus necesidades. Puedes encontrar un archivo de configuración en el repositorio o en la documentación oficial. Edita el archivo con la información relevante, como claves privadas, direcciones de enlace y configuraciones de red.
